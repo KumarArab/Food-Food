@@ -9,4 +9,4 @@ A dummy project for a Food recipies app. Things we can learn from this app are:
 5.Styling and creating beautiful apps in flutter.
 
 
-![Preview of the app](https://github.com/KumarArab/Food-Food/blob/master/MealsApp.png?raw=true)
+![Preview of the app](https://github.com/KumarArab/Food-Food/blob/master/MealsApp.jpg?raw=true)
